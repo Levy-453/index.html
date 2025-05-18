@@ -1,0 +1,18 @@
+body{background-color: aqua;}
+
+h1 { color: blue;} h1 {text-align: center;}
+
+p {
+     font-size: 25px;
+     text-align: justify;
+}   
+li { margin-bottom: 15px;}
+
+img {border-radius: 10px; width: 300px;}
+
+table {
+    background-color: blueviolet; border-color: darkslategray;
+}
+
+a:hover {color:white;
+}
