@@ -12,7 +12,6 @@
 <h1>Erivelton</h1>
 <p>Meu nome é Erivelton Santos Silva Pacheco, tenho 34 anos de idade, nascido na cidade de Vitória da Conquista-Ba em setembro de 1990. Sou fascinado por música e tecnologia.</p>
     <input type="button" onclick="teste('Olá! sejam bem vindos!')" value="Clique aqui para ver uma mensagem">
-    <script src="script.js"></script>
 <h2>.Hobbies</h2>
 
 <ul>
